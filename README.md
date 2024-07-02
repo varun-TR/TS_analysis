@@ -15,7 +15,7 @@ To replicate this project on your machine, follow these steps:
 - **Visualization Tool:** Tableau
 
 ## 📥 Credits
-This dataset was obtained from Telangana's state open datasets site. You can download the dataset [https://data.telangana.gov.in/](source link).
+This dataset was obtained from Telangana's state open datasets site. You can download the dataset [https://data.telangana.gov.in/]  (source link).
 
 ## 📜 License
 You are free to use this dataset to build your own project and practice your data querying and visualization skills.
