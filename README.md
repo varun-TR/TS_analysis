@@ -39,9 +39,11 @@ The results of the analysis are as follows:
 - **Revenue Comparison:** The top 5 districts where e-stamps revenue contributes significantly more to the revenue than document registration in FY 2022 are identified.
 - **Pattern Alteration:** Insights into the alteration of e-stamp challan count and document registration count patterns since the implementation of e-stamp challan. Suggestion can be easily identified through dashboard.
 - **District Segmentation:** Districts are categorized into three segments based on their stamp registration revenue generation during FY 2021 to 2022.
-  [https://public.tableau.com/app/profile/varun.t.r./viz/Telangana-Revenue-insights/Dashboard1?publish=yes] (Dashboard link)
+
 
 ## 🎯 Conclusion
 The project successfully answered the set of questions regarding sales and revenue generation across districts in Telangana. The insights gained from this project can help the government make informed decisions regarding revenue strategies and implementation of e-stamp challans.
 
 Feel free to explore the Tableau dashboard for a deeper dive into the data!
+
+[https://public.tableau.com/app/profile/varun.t.r./viz/Telangana-Revenue-insights/Dashboard1?publish=yes] (Dashboard link)
